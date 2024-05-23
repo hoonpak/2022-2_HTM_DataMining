@@ -2,7 +2,6 @@
  2022-2 HTM DATA MINING 수업 프로젝트
 
 ## 로봇 서비스를 제공하는 호텔 리뷰 분석
-![Alt text](LDA_project_presentation.png/LDA_project_presentation_1.png) 
 ![Alt text](LDA_project_presentation.png/LDA_project_presentation_2.png) 
 ## PROBLEM DESCRIPTION
 ![Alt text](LDA_project_presentation.png/LDA_project_presentation_3.png)
